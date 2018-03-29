@@ -1,0 +1,15 @@
+down
+cardigan
+blouse
+top
+tank
+jersey
+poncho
+parka
+turtleneck
+joggers
+jacket
+hoodie
+blazer
+tee
+sweater
