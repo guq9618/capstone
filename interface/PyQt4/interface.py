@@ -20,6 +20,7 @@ class MyWindowClass(QtGui.QMainWindow, form_class):
         parent_img="test"
         pixmap=QtGui.QPixmap(parent_img+".jpg")
         lab.setPixmap(pixmap)
+        lab.setScaledContents(True)
         lab.show()
 
 
