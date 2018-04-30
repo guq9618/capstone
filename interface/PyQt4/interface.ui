@@ -5,6 +5,14 @@
   <property name="enabled">
    <bool>true</bool>
   </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1242</width>
+    <height>837</height>
+   </rect>
+  </property>
   <property name="sizePolicy">
    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
     <horstretch>0</horstretch>
@@ -27,8 +35,14 @@
       <height>451</height>
      </rect>
     </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
     <property name="verticalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOn</enum>
+     <enum>Qt::ScrollBarAsNeeded</enum>
     </property>
     <property name="horizontalScrollBarPolicy">
      <enum>Qt::ScrollBarAsNeeded</enum>
@@ -36,18 +50,18 @@
     <property name="widgetResizable">
      <bool>true</bool>
     </property>
+    <property name="alignment">
+     <set>Qt::AlignJustify|Qt::AlignVCenter</set>
+    </property>
     <widget class="QWidget" name="scrollAreaWidgetContents">
      <property name="geometry">
       <rect>
        <x>0</x>
        <y>0</y>
-       <width>482</width>
+       <width>499</width>
        <height>449</height>
       </rect>
      </property>
-     <zorder>verticalGroupBox</zorder>
-     <zorder>label</zorder>
-     <zorder>label</zorder>
     </widget>
    </widget>
    <widget class="QWidget" name="horizontalLayoutWidget">
@@ -98,8 +112,8 @@
    <widget class="QLabel" name="detail_image_lab1">
     <property name="geometry">
      <rect>
-      <x>557</x>
-      <y>329</y>
+      <x>550</x>
+      <y>330</y>
       <width>391</width>
       <height>441</height>
      </rect>
@@ -617,27 +631,13 @@
      <string>탐색결과 리스트 (미리보기 창)</string>
     </property>
    </widget>
-   <zorder>scro</zorder>
-   <zorder>horizontalLayoutWidget</zorder>
-   <zorder>detail_text_lab</zorder>
-   <zorder>detail_image_lab1</zorder>
-   <zorder>checkBox_10</zorder>
-   <zorder>checkBox_10</zorder>
-   <zorder>checkBox_8</zorder>
-   <zorder>groupBox</zorder>
-   <zorder>groupBox_2</zorder>
-   <zorder>groupBox_3</zorder>
-   <zorder>verticalGroupBox</zorder>
-   <zorder>label_2</zorder>
-   <zorder>pushButton</zorder>
-   <zorder>label</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1189</width>
+     <width>1242</width>
      <height>21</height>
     </rect>
    </property>
