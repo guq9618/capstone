@@ -34,10 +34,37 @@ class MyWindowClass(QtGui.QMainWindow, form_class):
         self.la2=QtGui.QLabel('qweqwe')
         
         
-        self.scro.setBackgroundRole(QtGui.QPalette.Dark)
-        self.scro.setWidget(self.la1)
-        self.scro.setWidget(self.la2)
+        #self.scro.setBackgroundRole(QtGui.QPalette.Dark)
+        #self.scro.setWidget(self.la1)
+        #self.scro.setWidget(self.la2)
+
+        self.scro.setWidgetResizable(True)
+        self.scrollAreaWidgetContents = QtGui.QWidget()
+        self.gridLayout = QtGui.QGridLayout(self.scrollAreaWidgetContents)        
+        self.scro.setWidget(self.scrollAreaWidgetContents)
+        for i in range(10):
+            for j in range(3):
+                self.la=QtGui.QLabel()
+                self.la.setPixmap(pixmap)
+                self.la.setScaledContents(True)
+                self.gridLayout.addWidget(self.la, i, j)
         
+                
+        
+        """
+        self.layout = QtWidgets.QHBoxLayout(self)
+        self.scrollArea = QtWidgets.QScrollArea(self)
+        self.scrollArea.setWidgetResizable(True)
+        self.scrollAreaWidgetContents = QtWidgets.QWidget()
+        self.gridLayout = QtWidgets.QGridLayout(self.scrollAreaWidgetContents)
+        self.scrollArea.setWidget(self.scrollAreaWidgetContents)
+        self.layout.addWidget(self.scrollArea)
+
+        for i in range(100):
+            for j in range(100):
+                self.gridLayout.addWidget(QtWidgets.QPushButton(), i, j)
+"""
+
         
 
     def load_data(self):
