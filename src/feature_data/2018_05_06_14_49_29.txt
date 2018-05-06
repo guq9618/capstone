@@ -1,0 +1,26 @@
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg jersey Pink Gray Red
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg down Pink Gray White
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg hoodie Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg down Blue Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg down Gray Black
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg down Gray Cyan
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg blazer Gray White
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg joggers Pink Gray Black
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg blazer Gray Green Red
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_49_44_00.jpg down Gray White
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg jersey Gray White
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg down Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg blazer Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg down Gray White Violet
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg down Gray Black
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg jersey Gray Cyan
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg down Blue Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_00_00.jpg joggers Blue Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_13_00.jpg parka Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_13_00.jpg parka Gray Black
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_13_00.jpg jacket Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_13_00.jpg down Blue Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_13_00.jpg jersey Gray Cyan
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_28_00.jpg down Gray Black
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_28_00.jpg jersey Gray
+./img_data/2018_05_06_14_49_29/img2018_05_06_14_50_28_00.jpg down Gray Black
