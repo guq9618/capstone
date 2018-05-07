@@ -592,7 +592,7 @@
      <string>상세보기 창</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="search_btn">
     <property name="geometry">
      <rect>
       <x>960</x>
